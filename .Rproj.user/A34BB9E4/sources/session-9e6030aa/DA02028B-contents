@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Website Template"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: tab1.qmd
+        text: Tab one
+    logo: images/logo_tepak.png
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
