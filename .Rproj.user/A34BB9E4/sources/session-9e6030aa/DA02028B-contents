@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: tab1.qmd
-        text: Tab one
+      - href: tab-one/tab-one-index.qmd
+        text: Tab title
+      - href: tab-presentation/presentation-index.qmd
+        text: Presentations        
     logo: images/logo_tepak.png
 
 format:
@@ -19,6 +21,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
 
