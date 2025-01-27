@@ -19,5 +19,11 @@
   },
   "tab-presentation/presentation-index.qmd": {
     "presentation-index.html": "9cf38e08"
+  },
+  "tab-one/link-example.qmd": {
+    "link-example.html": "3339c57d"
+  },
+  "tab-iframe/iframe-index.qmd": {
+    "iframe-index.html": "bf78c40e"
   }
 }

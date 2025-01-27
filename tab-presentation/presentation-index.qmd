@@ -13,4 +13,5 @@ i) your github username
 ii) the name of your github repo
 then copy the URL and paste it to visit the webpage. 
 
-The adjusted URL above should take you to an example of a simple Quarto presentation. 
+The adjusted URL above should take you to an example of a simple Quarto presentation.
+
